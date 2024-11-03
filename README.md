@@ -58,7 +58,7 @@ GROUP BY subscriptiontype
 ORDER BY total_customers DESC;
 ````
 
-### Data Visualization
+### Data Visualization:
 
 
 
@@ -68,3 +68,12 @@ ORDER BY total_customers DESC;
 
 
 
+### Results/Findings:
+
+The Analysis results are summarized as follows:
+
+
+
+### Recommendations:
+
+Based on the analysis, we recommend the following items:

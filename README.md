@@ -56,12 +56,24 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
 4. Correcting data types
 5. Aggregating customer data
 
+### Questions:
+---
+- retrieve the total number of customers from each region.
+- find the most popular subscription type by the number of customers.
+- find customers who canceled their subscription within 6 months.
+- calculate the average subscription duration for all customers.
+- find customers with subscriptions longer than 12 months.
+- calculate total revenue by subscription type.
+- find the top three regions by subscription cancellation
+- find the total number of active and canceled subscriptions.
+
+
 ### Exploratory Data Analysis
 ---
 EDA involved the exploring of the Data to answer questions about the Data such as;
 - What is the overall subscription trend?
 - Which SubscriptionTypes are most popular?
-- What are total number of active and cancelled subscription?
+- What are the total number of active and cancelled subscription?
 
 ### Data Analysis
 ---

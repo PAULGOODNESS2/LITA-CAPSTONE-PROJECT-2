@@ -76,13 +76,23 @@ GROUP BY subscriptiontype
 ORDER BY total_customers DESC;
 ````
 
+
+
+
+
 ### Data Visualization:
 
 
+![Screenshot (10)](https://github.com/user-attachments/assets/efde0a07-5e33-4edb-8331-d5a398a0ff59)
+
+
+
+![Screenshot 2024-11-05 070810](https://github.com/user-attachments/assets/2effcd7b-c976-47c0-9d99-bb2f62c42876)
 
 
 
 
+![Screenshot (7)](https://github.com/user-attachments/assets/0ddf68ca-8d8e-4abc-885a-4174b03fa4d5)
 
 
 

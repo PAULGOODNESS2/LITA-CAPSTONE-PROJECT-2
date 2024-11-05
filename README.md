@@ -13,6 +13,8 @@ This project involves analyzing customer data for a subscription service to iden
 
 [Data Cleaning and Preparations](#data-cleaning-and-preparation)
 
+[Questions](questions)
+
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Data Analysis](#data-analysis)
@@ -101,7 +103,7 @@ ORDER BY total_customers DESC;
 
 ![Screenshot (16)](https://github.com/user-attachments/assets/8ce047dc-520e-4f3e-82a3-5429d211ae13)
 
-
+SQL Queries for Customer Data
 
 
 ### Data Visualization:
@@ -109,14 +111,22 @@ ORDER BY total_customers DESC;
 
 ![Screenshot (10)](https://github.com/user-attachments/assets/efde0a07-5e33-4edb-8331-d5a398a0ff59)
 
+Pivot chart summarizing:
+-
+
 
 
 ![Screenshot 2024-11-05 070810](https://github.com/user-attachments/assets/2effcd7b-c976-47c0-9d99-bb2f62c42876)
 
+Excel Dashboard visualizing:
+-
 
 
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/0ddf68ca-8d8e-4abc-885a-4174b03fa4d5)
+
+Power BI Dashboard visualizing:
+-
 
 
 

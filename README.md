@@ -112,21 +112,36 @@ SQL Queries for Customer Data
 ![Screenshot (10)](https://github.com/user-attachments/assets/efde0a07-5e33-4edb-8331-d5a398a0ff59)
 
 Pivot chart summarizing:
--
+- Sum of Revenue By Region
+- Average Revenue By Region
+- Revenue By Top Ten Customers
+- Average Duration Of Subscription
 
 
 
 ![Screenshot 2024-11-05 070810](https://github.com/user-attachments/assets/2effcd7b-c976-47c0-9d99-bb2f62c42876)
 
 Excel Dashboard visualizing:
--
+- Average Subscription Duration
+- Most Popular Subscription
+- Top ten Subscribers
+- Average Revenue By Region
+- Sum of Revenue By Region
+- Sum of Revenue By Subscription Type
+- Slicers for Interaction
 
 
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/0ddf68ca-8d8e-4abc-885a-4174b03fa4d5)
 
 Power BI Dashboard visualizing:
--
+- Customer Count Bu Subscription Type
+- Cancellation Analysis
+- Sum of Revenue By Region
+- Most Popular Subscription
+- Average Subscription Duration
+- Subscription Trends
+- Slicers for interactive visualization
 
 
 

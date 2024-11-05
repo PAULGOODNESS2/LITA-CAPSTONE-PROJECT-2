@@ -1,4 +1,4 @@
-# LITA-CAPSTONE-PROJECT-2
+![Screenshot (15)](https://github.com/user-attachments/assets/94969104-8fb2-4c9f-ba37-7c932dff74cb)# LITA-CAPSTONE-PROJECT-2
 ---
 This project involves analyzing customer data for a subscription service to identify segments and trends
 
@@ -76,6 +76,18 @@ GROUP BY subscriptiontype
 ORDER BY total_customers DESC;
 ````
 
+
+
+
+
+![Screenshot (15)](https://github.com/user-attachments/assets/c9f87cc8-cfb7-4025-b86f-1e84f1849e87)
+
+
+
+
+
+
+![Screenshot (16)](https://github.com/user-attachments/assets/8ce047dc-520e-4f3e-82a3-5429d211ae13)
 
 
 

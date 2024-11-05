@@ -1,4 +1,4 @@
-![Screenshot (15)](https://github.com/user-attachments/assets/94969104-8fb2-4c9f-ba37-7c932dff74cb)# LITA-CAPSTONE-PROJECT-2
+
 ---
 This project involves analyzing customer data for a subscription service to identify segments and trends
 

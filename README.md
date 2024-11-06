@@ -215,3 +215,8 @@ Based on the analysis, we recommend the following items:
 - Content Marketing: Share more engaging content on social media, blogs, or newsletters that makes your subscribers feel more connected to your brand or community.
 
 
+### THANK YOU!
+
+
+![image](https://github.com/user-attachments/assets/0e6ab0b9-57d5-4da4-b4fa-709e3fb75ecd)
+

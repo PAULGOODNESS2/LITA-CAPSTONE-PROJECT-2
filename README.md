@@ -31,7 +31,7 @@ The primary goal of this project is to analyze the customer performance for a su
 
 ### Data Sources
 ---
-The primary source of Data used here is Sales Data.csv file, and this is a data gotten from a Subscription store Daily sales transaction records, including Customer ID, Customer Name, Region, SubscriptionType, Subscription start, SubscriptionEnd, Cancelled and Revenue.
+The primary source of Data used here is Customer Data.csv file, and this is a data gotten from a Subscription store Daily sales transaction records, including Customer ID, Customer Name, Region, SubscriptionType, Subscription start, SubscriptionEnd, Cancelled and Revenue.
 
 ### Tools Used
 ---
@@ -149,8 +149,69 @@ Power BI Dashboard visualizing:
 
 The Analysis results are summarized as follows:
 
+1. Total Number Of Customers From Each Region;
+  |Region|Number|
+  |------|------|
+  |East  |5     |
+  |South |5     |
+  |North |5     |
+  |West  |5     |
 
+2. The most Popolar Subscription Type;
+   |Subscription Type|Total Customer|
+   |-----------------|--------------|
+   |Basic            |10            |
+
+3. Average Subscription Duration For all customers:
+   365 Days.
+
+4. Customers with subscription longer than 12 months:
+  Null.
+
+5. Total Revenue By Subscription type:
+   |Subscription Type| Total Revenue|
+   |-----------------|--------------|
+   |Basic            | 74756784     |
+   |Premium          | 37580782     |
+   |Standard         | 37482120     |
 
 ### Recommendations:
 
 Based on the analysis, we recommend the following items:
+
+1. Customer Feedback and Surveys: 
+
+- Ask Why: Reach out to current and former subscribers to gather feedback on why they canceled. Use surveys, interviews, or direct outreach to understand pain points.
+  
+- Analyze Behavior: Look at churn data to identify patterns, such as if subscribers are leaving after a certain number of months or after receiving a particular product.
+
+2. Analyze Competitors
+- Market Research: Investigate what your competitors are doing better or differently, whether it’s through product quality, packaging, customer service, or marketing. This can provide ideas on how to evolve your own offerings.
+
+3. Optimize Pricing
+   
+- Reevaluate Pricing: If you’re charging too much for your offering, customers may not see enough value. Consider whether you need to adjust your pricing strategy.
+
+- Introduce Limited-Time Discounts or Promotions: For new customers or re-engaging old subscribers, special offers such as “first month at 50% off” can bring in new revenue.
+
+4. Improve Customer Experience:
+   
+- Streamline Onboarding: Make it easy for new customers to get started. A seamless onboarding process will improve engagement and decrease early churn.
+
+- Customer Support: Be quick to resolve any issues. An easy-to-reach support team that resolves issues quickly can keep customers happy.
+
+5. Enhance Product/Service Value:
+
+- Curate Better Boxes/Offerings: Ensure your offerings are unique and valuable. If you're offering a subscription box, consider more personalization or a better selection of items.
+
+- Introduce Tiered Options: If you only have one price point, consider adding more flexibility with multiple subscription tiers, so customers can choose what fits their budget and needs.
+
+  6. Marketing Strategy Revamp:
+
+- Increase Social Proof: Feature testimonials, reviews, and case studies that showcase the benefits and satisfaction of existing customers.
+
+- Referral Programs: Create a referral program where subscribers can get discounts or gifts by referring friends and family to sign up.
+
+- Content Marketing: Share more engaging content on social media, blogs, or newsletters that makes your subscribers feel more connected to your brand or community.
+
+

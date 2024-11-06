@@ -206,7 +206,7 @@ Based on the analysis, we recommend the following items:
 
 - Introduce Tiered Options: If you only have one price point, consider adding more flexibility with multiple subscription tiers, so customers can choose what fits their budget and needs.
 
-  6. Marketing Strategy Revamp:
+6. Marketing Strategy Revamp:
 
 - Increase Social Proof: Feature testimonials, reviews, and case studies that showcase the benefits and satisfaction of existing customers.
 
